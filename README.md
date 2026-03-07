@@ -13,3 +13,8 @@ Projeto desenvolvido com foco no uso de metódologia Scrum e a união da equipe 
 <sub>(Acesso para baixar o projeto)
 [Projeto 2- 06-03-2026 -Projeto de Vestido API_C.pdf](https://github.com/user-attachments/files/25806874/Projeto.2-.06-03-2026.-Projeto.de.Vestido.API_C.pdf)</sub> <br>
 Acesso a documentação do projeto da API: [Projeto de API_ Entrega de vestido de casamento.pdf](https://github.com/user-attachments/files/25806900/Projeto.de.API_.Entrega.de.vestido.de.casamento.pdf)
+
+## 3) Projeto de Analise de Dados de Receita e Despensa 
+Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março.
+<img width="864" height="609" alt="image" src="https://github.com/user-attachments/assets/2dd0c6ae-d8a3-4c97-b7b7-43be83dc833c" />
+<sub>(Acesso para baixar a planilha de dados) [Tabela de dados Gerais da receita e despensa de sjc março.xlsx](https://github.com/user-attachments/files/25808360/Tabela.de.dados.Gerais.da.receita.e.despensa.de.sjc.marco.xlsx)</sub>
