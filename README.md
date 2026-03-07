@@ -3,8 +3,10 @@ Repositório criado para a disciplina ministrada no 1°Semestre de CST GPI
 ## 1) Projeto de Apresentação 
 Projeto feito em forma de slide para apresentação dos integrantes do grupo formados durante aula de Banco de dados, com foco no uso de ferramentas de design para a produção da apresentação, usando a ferramenta Canva e conhecimentos previos de design com metodologia de gameficação.
 <br>
-[Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589923/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
+[Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589923/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf) <br>
+<br>
 <img width="1189" height="673" alt="image" src="https://github.com/user-attachments/assets/442f2ad1-8391-469f-b95e-c39a874763e7" />
+<br>
 ## 2) Projeto de API - Design para vestido de casamento indiano
 Projeto desenvolvido com foco no uso de metódologia Scrum e a união da equipe para a construção da proposta.<br>
 <img width="1207" height="674" alt="image" src="https://github.com/user-attachments/assets/4753e474-9225-4946-8575-0b974709d414" />
