@@ -18,3 +18,9 @@ Acesso a documentação do projeto da API: [Projeto de API_ Entrega de vestido d
 Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março.
 <img width="864" height="609" alt="image" src="https://github.com/user-attachments/assets/2dd0c6ae-d8a3-4c97-b7b7-43be83dc833c" />
 <sub>(Acesso para baixar a planilha de dados) [Tabela de dados Gerais da receita e despensa de sjc março.xlsx](https://github.com/user-attachments/files/25808360/Tabela.de.dados.Gerais.da.receita.e.despensa.de.sjc.marco.xlsx)</sub>
+
+## 4) Aprimoramento gráfico dos dados trabalhados no projeto 3
+Foi realizado a filtragem dos dados para demonstrar somente a receita referente ao mês de forma a filtrar e melhor visualizar estas informações, desta forma foi aplicado as dicas propostas baseadas no Livro "StoryTelling com Dados". Desta forma, foi trabalhado para que o grafico tenha uma visualização mais clean e com maior foco na leitura dos dados e não só das cores.
+
+
+<sub>(Acesso para baixar a planilha de dados) </sub>
