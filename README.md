@@ -14,13 +14,17 @@ Projeto desenvolvido com foco no uso de metódologia Scrum e a união da equipe 
 [Projeto 2- 06-03-2026 -Projeto de Vestido API_C.pdf](https://github.com/user-attachments/files/25806874/Projeto.2-.06-03-2026.-Projeto.de.Vestido.API_C.pdf)</sub> <br>
 Acesso a documentação do projeto da API: [Projeto de API_ Entrega de vestido de casamento.pdf](https://github.com/user-attachments/files/25806900/Projeto.de.API_.Entrega.de.vestido.de.casamento.pdf)
 
-## 3) Projeto de Analise de Dados de Receita e Despensa 
-Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março.
-<img width="864" height="609" alt="image" src="https://github.com/user-attachments/assets/2dd0c6ae-d8a3-4c97-b7b7-43be83dc833c" />
+## 3) Projeto de Analise de Dados de Receita
+Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março. Utilizando as formulas =PROC.SE e =SOMASE
+<img width="864" height="609" alt="image" src="https://github.com/user-attachments/assets/2dd0c6ae-d8a3-4c97-b7b7-43be83dc833c" /> <br>
 <sub>(Acesso para baixar a planilha de dados) [Tabela de dados Gerais da receita e despensa de sjc março.xlsx](https://github.com/user-attachments/files/25808360/Tabela.de.dados.Gerais.da.receita.e.despensa.de.sjc.marco.xlsx)</sub>
 
 ## 4) Aprimoramento gráfico dos dados trabalhados no projeto 3
-Foi realizado a filtragem dos dados para demonstrar somente a receita referente ao mês de forma a filtrar e melhor visualizar estas informações, desta forma foi aplicado as dicas propostas baseadas no Livro "StoryTelling com Dados". Desta forma, foi trabalhado para que o grafico tenha uma visualização mais clean e com maior foco na leitura dos dados e não só das cores.
+Foi realizado a filtragem dos dados para demonstrar somente a receita referente ao mês de forma a filtrar e melhor visualizar estas informações, desta forma foi aplicado as dicas propostas baseadas no Livro "StoryTelling com Dados". Desta forma, foi trabalhado para que o grafico tenha uma visualização mais clean e com maior foco na leitura dos dados e não só das cores. <br>
+(Acesso para a visualização do Gráfico)
+https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Grafico.png <br>
 
-<img src="./https://imgur.com/a/9LDqKCU" >
-<sub>(Acesso para baixar a planilha de dados) </sub>
+<sub>(Acesso para baixar a planilha de dados)https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Tabela.de.dados.Gerais.da.receita.de.sjc.marco.xlsx </sub>
+
+## 5) Projeto de Analise de Dados de Despensa
+Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês de Fevereiro de 2026. Usando as formulas =SOMASE e =CONT.SE
