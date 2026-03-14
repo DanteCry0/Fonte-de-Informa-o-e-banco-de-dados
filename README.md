@@ -22,5 +22,5 @@ Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês 
 ## 4) Aprimoramento gráfico dos dados trabalhados no projeto 3
 Foi realizado a filtragem dos dados para demonstrar somente a receita referente ao mês de forma a filtrar e melhor visualizar estas informações, desta forma foi aplicado as dicas propostas baseadas no Livro "StoryTelling com Dados". Desta forma, foi trabalhado para que o grafico tenha uma visualização mais clean e com maior foco na leitura dos dados e não só das cores.
 
-
+<img src="./https://imgur.com/a/9LDqKCU" >
 <sub>(Acesso para baixar a planilha de dados) </sub>
