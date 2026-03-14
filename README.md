@@ -32,8 +32,9 @@ Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês 
 (Acesso para a visualização do Gráfico) https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20221809.png <br>
 
 <sub>(Acesso para baixar a planilha de dados)https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Tabela%20de%20dados%20Gerais%20das%20despesas%20por%20cargo%20em%20sjc%20Fev-26.xlsx </sub> <br>
-2)Anlise de dados despensa fornecedores <br>
-(Acesso para a visualização do Gráfico)   <br>
 
-<sub>(Acesso para baixar a planilha de dados)  </sub>
+2)Anlise de dados despensa fornecedores <br>
+(Acesso para a visualização do Gráfico)  https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20225128.png  <br>
+
+<sub>(Acesso para baixar a planilha de dados) https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Tabela%20de%20dados%20Despensa%20por%20fornecedor.xlsx </sub>
 
