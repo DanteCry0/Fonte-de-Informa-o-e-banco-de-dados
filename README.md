@@ -45,10 +45,18 @@ Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês 
 O certificado de conclusão do curso esta abaixo.
 
 ## 07) 📅  09/04/2026 Analise de dados correlacionada ao dicionario
-Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação.
-Perguntas que foram feitas
-1)Gênero por grau acadêmico ?
-2)Gênero por Ano?
-3)Qual a modalidade de ensino mais comum ?
-4)Qual grau acadêmico mais comum ?
+Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação, utilizamos a formula =SOMASES para correlacionar os dados e responder a algumas perguntas
+Perguntas que foram feitas<br>
+1)Gênero por grau acadêmico ?<br>
+<img width="452" height="130" alt="image" src="https://github.com/user-attachments/assets/84e625b3-d119-47d6-af42-4ffb9e780f37" />
+<br>
+2)Gênero por Ano?<br>
+<img width="331" height="177" alt="image" src="https://github.com/user-attachments/assets/111f2461-ae5a-4255-b4e3-8a529efdb166" />
+<br>
+3)Qual a modalidade de ensino mais comum ?<br>
+<img width="421" height="160" alt="image" src="https://github.com/user-attachments/assets/467f64eb-bb2a-457b-89cb-8954ef6a2681" />
+<br>
+4)Qual grau acadêmico mais comum ?<br>
+<img width="423" height="159" alt="image" src="https://github.com/user-attachments/assets/e3f9cacc-1563-4667-871e-719ac66d8c09" />
+
 
