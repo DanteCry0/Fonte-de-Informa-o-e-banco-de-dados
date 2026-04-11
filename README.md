@@ -45,7 +45,7 @@ Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês 
 O certificado de conclusão do curso esta abaixo.
 
 ## 07) 📅  09/04/2026 Analise de dados correlacionada ao dicionario
-Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação, utilizamos a formula =SOMASES para correlacionar os dados e responder a algumas perguntas
+Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação, utilizamos a formula =SOMASES para correlacionar os dados e responder a algumas perguntas, INDICE E CORRESP
 Perguntas que foram feitas<br>
 1)Gênero por grau acadêmico ?<br>
 <img width="452" height="130" alt="image" src="https://github.com/user-attachments/assets/84e625b3-d119-47d6-af42-4ffb9e780f37" />
