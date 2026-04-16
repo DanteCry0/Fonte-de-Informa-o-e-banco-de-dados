@@ -42,7 +42,9 @@ Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês 
 <sub>(Acesso para baixar a planilha de dados) https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Tabela%20de%20dados%20Despensa%20por%20fornecedor.xlsx </sub>
 
 ## 06) 📅  03/04/2026 Curso de compensão de 20H feito no Aprenda + = Curso de Python
-O certificado de conclusão do curso esta abaixo.
+O certificado de conclusão do curso de Python esta abaixo.<br>
+<img width="1079" height="1477" alt="WhatsApp Image 2026-04-16 at 19 13 23" src="https://github.com/user-attachments/assets/60938897-c564-4e45-8302-b09c4b1f40b9" />
+<br>
 
 ## 07) 📅  09/04/2026 Analise de dados correlacionada ao dicionario
 Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação, utilizamos a formula =SOMASES para correlacionar os dados e responder a algumas perguntas, INDICE E CORRESP
@@ -59,4 +61,5 @@ Perguntas que foram feitas<br>
 4)Qual grau acadêmico mais comum ?<br>
 <img width="423" height="159" alt="image" src="https://github.com/user-attachments/assets/e3f9cacc-1563-4667-871e-719ac66d8c09" />
 
-
+## 08) 📅  16/04/2026 Tarefa de Analise de dados
+Utilizando a base de dados abertos do Governo do Estado de São Paulo referente ao setor para correlacionar os dados para responder a algumas perguntas.
