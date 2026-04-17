@@ -62,4 +62,23 @@ Perguntas que foram feitas<br>
 <img width="423" height="159" alt="image" src="https://github.com/user-attachments/assets/e3f9cacc-1563-4667-871e-719ac66d8c09" />
 
 ## 08) 📅  16/04/2026 Tarefa de Analise de dados
-Utilizando a base de dados abertos do Governo do Estado de São Paulo referente ao setor para correlacionar os dados para responder a algumas perguntas.
+Utilizando a base de dados abertos do Governo do Estado de São Paulo referente ao setor de emissão de CNH para correlacionar os dados para responder a algumas perguntas.<br>
+1)Qual a quantidade de pessoas habilitadas com base no gênero no vale do paraiba	<br>	
+<img width="638" height="707" alt="image" src="https://github.com/user-attachments/assets/c9a4dab3-9e11-4dd1-a040-b889f7921861" />
+<br>
+2)Quantidade de pessoas habilitadas por categoria da CNH		<br>
+<img width="443" height="298" alt="image" src="https://github.com/user-attachments/assets/c8d71c5d-a228-4230-bb10-56fd5797a030" />
+<br>
+3)Quantidade de pessoas habilitadas por Idade	
+<br>
+<img width="441" height="298" alt="image" src="https://github.com/user-attachments/assets/b93ada25-5666-4811-935e-4ec51a3ecf62" />
+<br>
+4)5 MAIORES CIDADES COM EMISSÃO DE CNH		
+<br>
+<img width="388" height="166" alt="image" src="https://github.com/user-attachments/assets/cb808c4e-00e2-48e8-b242-81f79796879e" />
+<br>
+5)5 MAIORES CATEGORIAS EMITIDAS	
+<br>
+<img width="345" height="168" alt="image" src="https://github.com/user-attachments/assets/11896aa8-dbfd-44f6-98ca-fdc65690a378" />
+
+
