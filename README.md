@@ -14,8 +14,8 @@ Projeto desenvolvido com foco no uso de metódologia Scrum e a união da equipe 
 [Projeto 2- 06-03-2026 -Projeto de Vestido API_C.pdf](https://github.com/user-attachments/files/25806874/Projeto.2-.06-03-2026.-Projeto.de.Vestido.API_C.pdf)</sub> <br>
 Acesso a documentação do projeto da API: [Projeto de API_ Entrega de vestido de casamento.pdf](https://github.com/user-attachments/files/25806900/Projeto.de.API_.Entrega.de.vestido.de.casamento.pdf)
 
-## 3) 📅 12/03/2026 Projeto de Analise de Dados de Receita 
-Analise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março. Utilizando as formulas =PROC.SE e =SOMASE
+## 3) 📅 12/03/2026 Projeto de Análise de Dados de Receita 
+Análise de dados da prefeitura de sjc para saber a receita gasta durante o mês de Março. Utilizando as formulas =PROC.SE e =SOMASE
 <img width="864" height="609" alt="image" src="https://github.com/user-attachments/assets/2dd0c6ae-d8a3-4c97-b7b7-43be83dc833c" /> <br>
 <sub>(Acesso para baixar a planilha de dados) [Tabela de dados Gerais da receita e despensa de sjc março.xlsx](https://github.com/user-attachments/files/25808360/Tabela.de.dados.Gerais.da.receita.e.despensa.de.sjc.marco.xlsx)</sub>
 
@@ -27,9 +27,9 @@ Foi realizado a filtragem dos dados para demonstrar somente a receita referente 
 
 <sub>(Acesso para baixar a planilha de dados)https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Tabela.de.dados.Gerais.da.receita.de.sjc.marco.xlsx </sub>
 
-## 5) Projeto de Analise de Dados de Despensa Secretaria e por Fornecedor
-Analise de dados da prefeitura de sjc para saber a despesa gasta durante o mês de Fevereiro de 2026 para secretarias e fornecedores. Usando as formulas =SOMASE e =CONT.SE <br>
-1)Analise de dados despensa secretarias<br>
+## 5) Projeto de Análise de Dados de Despensa Secretaria e por Fornecedor
+Análise de dados da prefeitura de sjc para saber a despesa gasta durante o mês de Fevereiro de 2026 para secretarias e fornecedores. Usando as formulas =SOMASE e =CONT.SE <br>
+1)Análise de dados despensa secretarias<br>
 <img src="https://github.com/DanteCry0/Fonte-de-Informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20221809.png" alt="DER_BD" width="100%" />
 <br>
 
@@ -46,7 +46,7 @@ O certificado de conclusão do curso de Python esta abaixo.<br>
 <img width="1079" height="1477" alt="WhatsApp Image 2026-04-16 at 19 13 23" src="https://github.com/user-attachments/assets/60938897-c564-4e45-8302-b09c4b1f40b9" />
 <br>
 
-## 07) 📅  09/04/2026 Analise de dados correlacionada ao dicionario
+## 07) 📅  09/04/2026 Análise de dados correlacionada ao Dicionário
 Utilizando a base de dados aberta do Goverdo do Estado de São Paulo referente ao setor de educação, utilizamos a formula =SOMASES para correlacionar os dados e responder a algumas perguntas, INDICE E CORRESP
 Perguntas que foram feitas<br>
 1)Gênero por grau acadêmico ?<br>
@@ -61,7 +61,7 @@ Perguntas que foram feitas<br>
 4)Qual grau acadêmico mais comum ?<br>
 <img width="423" height="159" alt="image" src="https://github.com/user-attachments/assets/e3f9cacc-1563-4667-871e-719ac66d8c09" />
 
-## 08) 📅  16/04/2026 Tarefa de Analise de dados
+## 08) 📅  16/04/2026 Tarefa de Análise de dados
 Utilizando a base de dados abertos do Governo do Estado de São Paulo referente ao setor de emissão de CNH para correlacionar os dados para responder a algumas perguntas.<br>
 1)Qual a quantidade de pessoas habilitadas com base no gênero no vale do paraiba	<br>	
 <img width="638" height="707" alt="image" src="https://github.com/user-attachments/assets/c9a4dab3-9e11-4dd1-a040-b889f7921861" />
