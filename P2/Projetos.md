@@ -3,6 +3,8 @@
 <br>
 
 ## 10) 📅  23/04/2026 Desenvolvimento de analise de base de dados no PowerBi, das despesas de São paulo
+Utilizando os dados disponiveis em https://repositorio.seade.gov.br pegamos as despesas dos 3 primeiros meses do ano e elaboramos gráficos simples para a visualização apartir da união das 3 tabelas e aplicação no PowerBi
+<img width="1155" height="556" alt="image" src="https://github.com/user-attachments/assets/23159237-233b-4e9f-8f8a-403a2cf8405e" />
 
 ## 11) 📅  24/04/2026 Uso de Imagem no PowerBi
 Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior , e baixando o arquivo "Ensino Superior - Matrículas" desenvolvemos um arquivo para realizar a substituição de dados com base no icone. Relacionando os Campos para fazer a inserção de uma imagem. Além disso foi desenvolvido outras 3 visualizações, sendo 
