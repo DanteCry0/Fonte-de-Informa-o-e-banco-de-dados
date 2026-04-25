@@ -5,4 +5,4 @@
 ## 10) 📅  23/04/2026 Desenvolvimento de analise de base de dados no PowerBi, das despesas de São paulo
 
 ## 11) 📅  24/04/2026 Uso de dicionario no power Bi
-Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior , e baixando o arquivo "Ensino Superior - Matrículas" desenvolvemos um arquivo para realizar a substituição de dados com base no icone
+Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior , e baixando o arquivo "Ensino Superior - Matrículas" desenvolvemos um arquivo para realizar a substituição de dados com base no icone. Relacionando os Campos para fazer a inserção de uma imagem
