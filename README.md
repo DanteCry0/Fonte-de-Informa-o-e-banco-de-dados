@@ -38,10 +38,17 @@ Conteúdos, exercícios e materiais referentes à segunda etapa da disciplina.
 ---
 
 ## 📚 Tecnologias e Conceitos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" height="48"/>
+  </a>
+  <img src="https://github.com/user-attachments/assets/198d7763-92dc-4685-8780-8c7db5d99fa0" width="48" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/2d09ff6a-58b9-4582-9270-4984dc7b776a" width="48" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/ec7f6d82-7c84-4871-9c70-865951236cc5" width="48" style="display:inline-block;" />
+</p>
 
 - Modelagem de Dados
 - Banco de Dados Relacional
-- Excel 
 - Organização de Informação
 
 ---
