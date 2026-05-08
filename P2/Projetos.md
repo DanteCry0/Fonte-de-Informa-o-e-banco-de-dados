@@ -10,3 +10,6 @@ Utilizando os dados disponiveis em https://repositorio.seade.gov.br pegamos as d
 Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educacao-do-ensino-superior , e baixando o arquivo "Ensino Superior - Matrículas" desenvolvemos um arquivo para realizar a substituição de dados com base no icone. Relacionando os Campos para fazer a inserção de uma imagem. Além disso foi desenvolvido 3 visualizações de dados.
 <img width="1112" height="398" alt="Gravando 2026-04-25 141058" src="https://github.com/user-attachments/assets/f2b77fc6-e245-4792-bcda-a4438721b7d2" />
 
+## 12) 📅  30/04/2026 Aplicação do aprendizado anterior em nova tabela
+Utilizando novamente os dados disponiveis no Seade de São Paulo, e fazendo a analise da  Sistema Integrado de Comércio Exterior (Siscomex), do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)(https://repositorio.seade.gov.br/dataset/comercio-exterior) foram desenvolvidos 3 graficos para responder a algumas perguntas.
+
