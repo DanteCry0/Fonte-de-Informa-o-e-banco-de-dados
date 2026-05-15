@@ -13,3 +13,6 @@ Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educ
 ## 12) 📅  30/04/2026 Aplicação do aprendizado anterior em nova tabela
 Utilizando novamente os dados disponiveis no Seade de São Paulo, e fazendo a analise da  Sistema Integrado de Comércio Exterior (Siscomex), do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)(https://repositorio.seade.gov.br/dataset/comercio-exterior) foram desenvolvidos 3 graficos para responder a algumas perguntas.
 
+## 13) 📅  14/05/2026 Regressão Linear
+Pelo site https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-temperature-and-weather 
+<img width="1430" height="508" alt="image" src="https://github.com/user-attachments/assets/ce3c13de-709b-418b-a3af-48f83ebfc803" />
