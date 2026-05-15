@@ -15,4 +15,7 @@ Utilizando novamente os dados disponiveis no Seade de São Paulo, e fazendo a an
 
 ## 13) 📅  14/05/2026 Regressão Linear
 Pelo site https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-temperature-and-weather 
+diretamente por download e excel
 <img width="1430" height="508" alt="image" src="https://github.com/user-attachments/assets/ce3c13de-709b-418b-a3af-48f83ebfc803" />
+# 15/05/2026 Regressão Linear simples apartir do Google Colab
+
