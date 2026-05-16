@@ -25,7 +25,10 @@ para obter o resultado
 <img width="884" height="578" alt="image" src="https://github.com/user-attachments/assets/e72733f7-84ee-46f6-8305-41be9530ff80" />
 
 ## 15/05/2026 Beer Consumption - Regressão Linear simples apartir do Excel e do Colab
-Pelo site https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo foi utilizado para analisar em 
+Pelo site https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo foi utilizado para analisar as colunas de Temperatura Média pelo consumo de cerveja <br>
 1)Excel
+<img width="1585" height="678" alt="image" src="https://github.com/user-attachments/assets/ea937319-a540-4855-8c17-fd29b4b0af69" />
+<br>
+
 
 2)Google Colab
