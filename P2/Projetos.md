@@ -18,4 +18,10 @@ Pelo site https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis
 diretamente por download e excel
 <img width="1430" height="508" alt="image" src="https://github.com/user-attachments/assets/ce3c13de-709b-418b-a3af-48f83ebfc803" />
 # 15/05/2026 Regressão Linear simples apartir do Google Colab
+Utilizando o dataset no Kaggle(https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales)
+foi utilizado o Google Colab utilizando a estrutura
+<img width="1514" height="232" alt="image" src="https://github.com/user-attachments/assets/43d040bf-a140-4dbe-954d-a5383f7d9103" /> <br>
+para obter o resultado 
+<img width="884" height="578" alt="image" src="https://github.com/user-attachments/assets/e72733f7-84ee-46f6-8305-41be9530ff80" />
+
 
