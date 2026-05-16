@@ -29,6 +29,8 @@ Pelo site https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo f
 1)Excel
 <img width="1585" height="678" alt="image" src="https://github.com/user-attachments/assets/ea937319-a540-4855-8c17-fd29b4b0af69" />
 <br>
+2)Google Colab<br>
+Resolução feito apartir do Colab
+<img width="817" height="188" alt="image" src="https://github.com/user-attachments/assets/88505a01-16b6-479d-9833-02dd79c22213" /> <br>
+<img width="802" height="495" alt="image" src="https://github.com/user-attachments/assets/123b1f2f-c978-42b4-94fc-260677f210ad" />
 
-
-2)Google Colab
