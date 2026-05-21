@@ -12,8 +12,14 @@ Utilizando os dados disponiveis em https://repositorio.seade.gov.br/dataset/educ
 
 ## 12) 📅  30/04/2026 Aplicação do aprendizado anterior em nova tabela
 Utilizando novamente os dados disponiveis no Seade de São Paulo, e fazendo a analise da  Sistema Integrado de Comércio Exterior (Siscomex), do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)(https://repositorio.seade.gov.br/dataset/comercio-exterior) foram desenvolvidos 3 graficos para responder a algumas perguntas.
+<img width="1339" height="681" alt="image" src="https://github.com/user-attachments/assets/ded108d6-ce26-4abb-9634-c04229bd601c" />
 
-## 13) 📅  14/05/2026 Regressão Linear apartir do Excel
+
+## 13) 08/05/2026 - Power BI - Painel dos dados de empregos formais
+Nesta atividade, utilizamos a base de dados abertas do estado de São Paulo para construir um dashboard com os dados de empregos formais. Após a construção do arquivo, utilizamos os dados para responder duas perguntas:Em qual ano e mês houve o menor saldo de movimentação E o maior? e Em qual ano a média de movimentação foi maior que zero?
+<img width="1299" height="719" alt="image" src="https://github.com/user-attachments/assets/a939269e-5869-40a3-8e64-377ab8ba012c" />
+
+## 14) 📅  14/05/2026 Regressão Linear apartir do Excel
 Pelo site https://www.kaggle.com/datasets/saliltirodkar/ice-cream-sales-analysis-temperature-and-weather 
 diretamente por download e excel
 <img width="1430" height="508" alt="image" src="https://github.com/user-attachments/assets/ce3c13de-709b-418b-a3af-48f83ebfc803" />
