@@ -41,7 +41,7 @@ Resolução feito a partir do Colab
 <img width="802" height="495" alt="image" src="https://github.com/user-attachments/assets/123b1f2f-c978-42b4-94fc-260677f210ad" />
 
 ## 15) 22/05/2026 Desenvolvimento do Dash para a P1
-Utilizando o dataset do Kaggle do "Ice cream Revenue" ( https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue ) e do Beer Comsumption in SP (//www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo)
-Vamos desenvolver um Dashboard e fazer uma tabela Dimensional para relacionar as duas. 
+Utilizando o dataset do Kaggle do "Ice cream Revenue" ( https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset ) e do Beer Comsumption in SP (//www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo)
+Vamos desenvolver um Dashboard e fazer uma tabela Dimensional para relacionar as duas apartir da Temperatura.
 
 
