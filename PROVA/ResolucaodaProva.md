@@ -13,4 +13,6 @@ O projeto conta com três visualizações principais para explorar a dinâmica d
 3. **Gráfico de pizza (Livre Escolha):**
    Um gráfico de pizza para visualizar a distribuição da quantidade de casais homoafetivos e heteros. <br>
 <img width="80%" alt="Gravação do Dashboard" src="https://github.com/user-attachments/assets/f14ae908-e148-42b2-9a2c-10fd574cc789"/> <br>
-os arquivos podem ser acessados Aqui
+<img width="1220" height="683" alt="image" src="https://github.com/user-attachments/assets/29f1165b-7c15-4a57-89b0-cf2ed6da03b7" /> <br>
+
+## os arquivos podem ser acessados [Aqui](./PROVA)
